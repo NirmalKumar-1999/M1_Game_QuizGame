@@ -50,9 +50,9 @@ The user can take the Quiz by Entering the Name.
 
 | HLR_ID |Description | Status |
 | ------ | ------ | ------ |
-| LLR_1_HLR_1 | Participants give y to enter n to exit in char type | IMPLEMENTED |
-|LLR_2_HLR_1 |	Show "Give proper response", when give other than y (or) n| IMPLEMENTED |	
-|LLR_3_HLR_1 |	Continue quiz if y given, exit when n is given| IMPLEMENTED |
+| LLR_1_HLR_1 | Participants give Y to enter N to exit in char type | IMPLEMENTED |
+|LLR_2_HLR_1 |	Show "Give proper response", when give other than Y (or) N| IMPLEMENTED |	
+|LLR_3_HLR_1 |	Continue quiz if Y given , exit when N is given| IMPLEMENTED |
 |LLR_1_HLR_2 |	Show preview of quiz to the participants| IMPLEMENTED |
 |LLR_2_HLR_2 |	Enter name to participates in quiz in char string type| IMPLEMENTED |
 |LLR_3_HLR_2 |	Provide question with options by entering into new functions question1| IMPLEMENTED |
