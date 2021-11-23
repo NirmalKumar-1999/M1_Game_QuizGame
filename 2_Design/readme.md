@@ -1,9 +1,7 @@
 # Design
 
 ## High Level Design
-![](https://user-images.githubusercontent.com/94219350/143081253-5b0a4b0b-7fc6-4b01-8b30-787524a9168d.jpg)
+![](https://user-images.githubusercontent.com/94219350/143081910-cf455bf8-e981-468d-a4fe-001e21a8b667.jpg)
 
 ## Low Level Design
 ![](https://user-images.githubusercontent.com/94219350/143079062-4e8e86a9-1bd9-453c-a17c-9d45a5f11edf.jpg)
-
-![Untitled Diagram (1)](https://user-images.githubusercontent.com/94219350/143081779-ca8916b1-9925-4544-88ff-b563c8e4b5ae.jpg)
