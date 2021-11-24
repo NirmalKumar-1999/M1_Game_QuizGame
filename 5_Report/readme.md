@@ -62,8 +62,10 @@ The user can take the Quiz by Entering the Name.
 
 
 # Design
-##  Introduction
-A Quiz is a form of Game or Mind Sport in which Players Attempt to Answer Questions Correctly about a certain or Variety of Subjects . Quiz can be used as a Brief Assessment in Education and similar fields to Measure Growth in Knowledge , Abilities or Skills . They can also be Televised for Entertainment Purposes often in a Game Show Format.
+##  High Level Design
+![High Level Design](https://user-images.githubusercontent.com/94219350/143287462-ea81058c-b50d-4446-9da6-f995019bf532.jpg)
+##  Low Level Design
+![Low Level Design](https://user-images.githubusercontent.com/94219350/143287780-cbdd2dd1-efe9-465b-953d-74628103c6ce.jpg)
 
 
 
