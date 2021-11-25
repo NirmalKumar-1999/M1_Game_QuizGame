@@ -1,5 +1,5 @@
 PROJ_NAME = quiz
-SRC = main1.c
+SRC = main.c
 
 ifdef OS
    RM = del /q
