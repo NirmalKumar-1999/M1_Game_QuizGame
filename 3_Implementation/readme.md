@@ -4,10 +4,10 @@
 - GCC Compiler to Compile the Project.
 - "make" to Run the Makefile Smoothly.
 
-## Steps To run Project
+### Steps To run Project
 
-1.First clone the repository from the Github.
-2.Open the repository in an IDE (Suggesting Visual Studio Code).
+1. First clone the repository from the Github.
+2. Open the repository in an IDE (Suggesting Visual Studio Code).
 3. The next step is to build the project with the help of make command :
    - make all
 4. Next step is to run the project with help of make command :
