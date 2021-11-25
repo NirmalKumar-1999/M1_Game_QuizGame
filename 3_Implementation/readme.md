@@ -9,7 +9,7 @@
 1. First Clone the Repository from the Github.
 2. Open the Repository in an IDE (Suggested Visual Studio Code).
 3. The Next Step is to Build the Project with the Help of Make Command :-
-   " make all"
+   -" make all"
 4. Next Step is to Run the Project with Help of Make Command :-
    - make run
 5. If you want to Run the Test Cases then Run the Following Command :-
